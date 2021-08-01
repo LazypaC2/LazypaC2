@@ -21,7 +21,8 @@
   <a href="https://www.instagram.com/lazy_pac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/braian-b-gonçalves-aa0a8020a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div>
 
-![Snake animation](https://github.com/LazypaC2/LazypaC2/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/LazypaC2/LazypaC2/blob/dist/github-contribution-grid-snake.svg)
  
- </div>
+</div>
