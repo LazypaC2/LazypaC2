@@ -23,6 +23,6 @@
 </div>
 <div>
 
-![Snake animation](https://github.com/LazypaC2/LazypaC2/blob/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LazypaC2/LazypaC2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
